@@ -7,7 +7,7 @@ git clone https://github.com/nineyang/qqpay
 ```
 
 2.
-配置[Config.php](/qq/Config.php):
+配置[Config.php](/QQ/Config.php):
 ```
     const MCHID = 'your_macid';
     const KEY = 'your_key';
