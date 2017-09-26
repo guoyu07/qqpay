@@ -9,8 +9,8 @@ class QQPayClass
     {
         $this->values = array();
         $this->sign = '';
-        require_once 'qq1/QQException.php';
-        require_once 'qq1/QQConfig.php';
+        require_once 'QQ/Exception.php';
+        require_once 'QQ/Config.php';
     }
 
     /**

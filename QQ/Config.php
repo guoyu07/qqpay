@@ -22,9 +22,10 @@ class QQConfig
      * 获取地址：https://mp.weixin.qq.com/advanced/advanced?action=dev&t=advanced/dev&token=2005451881&lang=zh_CN
      * @var string
      */
-    const MCHID = '111';
-//    const KEY = '3333333';
-    const APPSECRET = '22222222';
+    
+    const MCHID = 'your_macid';
+    const KEY = 'your_key';
+    const APPSECRET = 'your_appsecret';
 
     //=======【证书路径设置】=====================================
     /**
